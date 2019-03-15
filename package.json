@@ -1,0 +1,23 @@
+{
+  "name": "health-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irohdesign/health-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irohdesign/health-app/issues"
+  },
+  "homepage": "https://github.com/irohdesign/health-app#readme",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}

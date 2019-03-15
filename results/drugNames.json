@@ -1,1 +1,821 @@
-Abacavir Sulfate,Abarelix,Abatacept,Abciximab,Abelcet,Abilify,Abraxane,Acamprosate Calcium,Acarbose,Accolate,Accretropin,AccuNeb,Accupril,Accutane,Acebutolol,Aceon,Acetadote,Acetaminophen,Acetic Acid,Aci-Jel,Aciphex,Acitretin,Aclovate,Acrivastine and Pseudoephedrine,Actemra,Acthrel,Acticin,Actimmune,Actiq,Actisite,Activase,Activella,Actonel,Actos,Acular,Acular LS,Acuvail,Acyclovir,Adacel,Adagen,Adalat CC,Adalimumab,Adapalene,Adcirca,Adderall,Adderall XR,Adefovir Dipivoxil,Adenoscan,Adenosine,Adipex-P,Adoxa,Adrenalin,AdreView,Adriamycin PFS,Advair Diskus,Advair HFA,Advicor,Aerospan HFA,Afinitor,Afluria,Agalsidase Beta,Aggrastat,Aggrenox,Agrylin,Ak-Fluor,Akineton,Alamast,Albendazole,Albenza,Albumin, Human,Albuminar,Albuterol Sulfate,Albuterol Sulfate Inhalation Aerosol,Alcaine,Alclometasone Dipropionate,Aldactazide,Aldactone,Aldara,Aldesleukin,Aldomet,Aldoril,Aldurazyme,Alefacept,Alemtuzumab,Alendronate Sodium,Alesse,Alfenta,Alfentanil,Alfuzosin HCl,Alglucosidase Alfa,Alimta,Alinia,Alitretinoin,Alkeran,Allegra,Allegra-D,Allegra D 24 Hour,Allernaze,Alli,Allopurinol,Almotriptan Malate,Alocril,Alomide,Aloprim,Alora,Alosetron Hydrochloride,Aloxi,Alphanate,Alprazolam,Alprostadil,Alrex,Alsuma,Altabax,Altace,Alteplase,Altocor,Altoprev,Altretamine,Alupent,Alvesco,Amantadine Hydrochloride,Amaryl,Ambien,Ambien CR,Ambisome,Amerge,Americaine,Amevive,Amicar,Amifostine,Amikacin,Amikin,Amiloride,Amiloride and Hydrochlorothiazide,Amiloride Hydrochloride,Amino Acids,Aminocaproic Acid,Aminoglutethimide,Aminohippurate Sodium,Aminolevulinic Acid,Aminosalicylic Acid,Aminosyn II 8.5%,Aminosyn II in Dextrose,Amitiza,Amitriptyline,Amlexanox,Amlodipine Besylate,Amoxapine,Amoxicillin,Amoxicillin Clavulanate,Amoxil,Amphadase,Amphetamine,Amphotericin B,Ampicillin,Ampyra,Amrix,Amyl Nitrite,Amytal Sodium,Anabolic steroids,Anadrol-50,Anafranil,Anagrelide,Anakinra,Anastrozole,Ancobon,Androderm,AndroGel,Anectine,Angeliq,Angiomax,Anidulafungin,Anisindione,Ansaid,Antabuse,Antara,Anthralin,Antihemophilic Factor,Antithrombin,Antivenin,Antivert,Antizol,Anturane,Anusol Hc,Aphthasol,Apidra,Aplenzin,Apokyn,Apomorphine,Apraclonidine,Apresazide,Apresoline,Apri,Apriso,Aprotinin,Aptivus,Aquasol A,Aralen,Aramine,Aranesp,Arava,Arcalyst,Aredia,Argatroban,Aricept,Arimidex,Aripiprazole,Aristocort,Arixtra,Armodafinil,Aromasin,Arranon,Artane,Arthrotec,Arzerra,Asacol,Asacol HD,Asclera,Ascorbic Acid,Asmanex Twisthaler,Asparaginase,Aspirin,Astelin,Astemizole,Astepro,Atacand,Atacand HCT,Atazanavir Sulfate,Atenolol and Chlorthalidone,Atgam,Ativan,Atomoxetine HCl,Atorvastatin Calcium,Atovaquone,Atracurium Besylate,Atralin,Atridox,Atripla,Atromid-S,Atropen,Atropine,Atrovent HFA,Atryn,Augmentin,Augmentin XR,Auralgan,Avage,Avalide,Avandamet,Avandaryl,Avandia,Avapro,Avastin,Avelox,Avinza,Avodart,Avonex,Axert,Axid,Aygestin,Azacitidine,Azasan,Azasite,Azathioprine,Azelaic Acid,Azelastine Hydrochloride,Azelex,Azilect,Azithromycin,Azmacort,Azopt,Azor,Azulfidine EN-Tabs
+{
+  "0": {
+    "name": "Abacavir Sulfate"
+  },
+  "1": {
+    "name": "Abarelix"
+  },
+  "2": {
+    "name": "Abatacept"
+  },
+  "3": {
+    "name": "Abciximab"
+  },
+  "4": {
+    "name": "Abelcet"
+  },
+  "5": {
+    "name": "Abilify"
+  },
+  "6": {
+    "name": "Abraxane"
+  },
+  "7": {
+    "name": "Acamprosate Calcium"
+  },
+  "8": {
+    "name": "Acarbose"
+  },
+  "9": {
+    "name": "Accolate"
+  },
+  "10": {
+    "name": "Accretropin"
+  },
+  "11": {
+    "name": "AccuNeb"
+  },
+  "12": {
+    "name": "Accupril"
+  },
+  "13": {
+    "name": "Accutane"
+  },
+  "14": {
+    "name": "Acebutolol"
+  },
+  "15": {
+    "name": "Aceon"
+  },
+  "16": {
+    "name": "Acetadote"
+  },
+  "17": {
+    "name": "Acetaminophen"
+  },
+  "18": {
+    "name": "Acetic Acid"
+  },
+  "19": {
+    "name": "Aci-Jel"
+  },
+  "20": {
+    "name": "Aciphex"
+  },
+  "21": {
+    "name": "Acitretin"
+  },
+  "22": {
+    "name": "Aclovate"
+  },
+  "23": {
+    "name": "Acrivastine and Pseudoephedrine"
+  },
+  "24": {
+    "name": "Actemra"
+  },
+  "25": {
+    "name": "Acthrel"
+  },
+  "26": {
+    "name": "Acticin"
+  },
+  "27": {
+    "name": "Actimmune"
+  },
+  "28": {
+    "name": "Actiq"
+  },
+  "29": {
+    "name": "Actisite"
+  },
+  "30": {
+    "name": "Activase"
+  },
+  "31": {
+    "name": "Activella"
+  },
+  "32": {
+    "name": "Actonel"
+  },
+  "33": {
+    "name": "Actos"
+  },
+  "34": {
+    "name": "Acular"
+  },
+  "35": {
+    "name": "Acular LS"
+  },
+  "36": {
+    "name": "Acuvail"
+  },
+  "37": {
+    "name": "Acyclovir"
+  },
+  "38": {
+    "name": "Adacel"
+  },
+  "39": {
+    "name": "Adagen"
+  },
+  "40": {
+    "name": "Adalat CC"
+  },
+  "41": {
+    "name": "Adalimumab"
+  },
+  "42": {
+    "name": "Adapalene"
+  },
+  "43": {
+    "name": "Adcirca"
+  },
+  "44": {
+    "name": "Adderall"
+  },
+  "45": {
+    "name": "Adderall XR"
+  },
+  "46": {
+    "name": "Adefovir Dipivoxil"
+  },
+  "47": {
+    "name": "Adenoscan"
+  },
+  "48": {
+    "name": "Adenosine"
+  },
+  "49": {
+    "name": "Adipex-P"
+  },
+  "50": {
+    "name": "Adoxa"
+  },
+  "51": {
+    "name": "Adrenalin"
+  },
+  "52": {
+    "name": "AdreView"
+  },
+  "53": {
+    "name": "Adriamycin PFS"
+  },
+  "54": {
+    "name": "Advair Diskus"
+  },
+  "55": {
+    "name": "Advair HFA"
+  },
+  "56": {
+    "name": "Advicor"
+  },
+  "57": {
+    "name": "Aerospan HFA"
+  },
+  "58": {
+    "name": "Afinitor"
+  },
+  "59": {
+    "name": "Afluria"
+  },
+  "60": {
+    "name": "Agalsidase Beta"
+  },
+  "61": {
+    "name": "Aggrastat"
+  },
+  "62": {
+    "name": "Aggrenox"
+  },
+  "63": {
+    "name": "Agrylin"
+  },
+  "64": {
+    "name": "Ak-Fluor"
+  },
+  "65": {
+    "name": "Akineton"
+  },
+  "66": {
+    "name": "Alamast"
+  },
+  "67": {
+    "name": "Albendazole"
+  },
+  "68": {
+    "name": "Albenza"
+  },
+  "69": {
+    "name": "Albumin, Human"
+  },
+  "70": {
+    "name": "Albuminar"
+  },
+  "71": {
+    "name": "Albuterol Sulfate"
+  },
+  "72": {
+    "name": "Albuterol Sulfate Inhalation Aerosol"
+  },
+  "73": {
+    "name": "Alcaine"
+  },
+  "74": {
+    "name": "Alclometasone Dipropionate"
+  },
+  "75": {
+    "name": "Aldactazide"
+  },
+  "76": {
+    "name": "Aldactone"
+  },
+  "77": {
+    "name": "Aldara"
+  },
+  "78": {
+    "name": "Aldesleukin"
+  },
+  "79": {
+    "name": "Aldomet"
+  },
+  "80": {
+    "name": "Aldoril"
+  },
+  "81": {
+    "name": "Aldurazyme"
+  },
+  "82": {
+    "name": "Alefacept"
+  },
+  "83": {
+    "name": "Alemtuzumab"
+  },
+  "84": {
+    "name": "Alendronate Sodium"
+  },
+  "85": {
+    "name": "Alesse"
+  },
+  "86": {
+    "name": "Alfenta"
+  },
+  "87": {
+    "name": "Alfentanil"
+  },
+  "88": {
+    "name": "Alfuzosin HCl"
+  },
+  "89": {
+    "name": "Alglucosidase Alfa"
+  },
+  "90": {
+    "name": "Alimta"
+  },
+  "91": {
+    "name": "Alinia"
+  },
+  "92": {
+    "name": "Alitretinoin"
+  },
+  "93": {
+    "name": "Alkeran"
+  },
+  "94": {
+    "name": "Allegra"
+  },
+  "95": {
+    "name": "Allegra-D"
+  },
+  "96": {
+    "name": "Allegra D 24 Hour"
+  },
+  "97": {
+    "name": "Allernaze"
+  },
+  "98": {
+    "name": "Alli"
+  },
+  "99": {
+    "name": "Allopurinol"
+  },
+  "100": {
+    "name": "Almotriptan Malate"
+  },
+  "101": {
+    "name": "Alocril"
+  },
+  "102": {
+    "name": "Alomide"
+  },
+  "103": {
+    "name": "Aloprim"
+  },
+  "104": {
+    "name": "Alora"
+  },
+  "105": {
+    "name": "Alosetron Hydrochloride"
+  },
+  "106": {
+    "name": "Aloxi"
+  },
+  "107": {
+    "name": "Alphanate"
+  },
+  "108": {
+    "name": "Alprazolam"
+  },
+  "109": {
+    "name": "Alprostadil"
+  },
+  "110": {
+    "name": "Alrex"
+  },
+  "111": {
+    "name": "Alsuma"
+  },
+  "112": {
+    "name": "Altabax"
+  },
+  "113": {
+    "name": "Altace"
+  },
+  "114": {
+    "name": "Alteplase"
+  },
+  "115": {
+    "name": "Altocor"
+  },
+  "116": {
+    "name": "Altoprev"
+  },
+  "117": {
+    "name": "Altretamine"
+  },
+  "118": {
+    "name": "Alupent"
+  },
+  "119": {
+    "name": "Alvesco"
+  },
+  "120": {
+    "name": "Amantadine Hydrochloride"
+  },
+  "121": {
+    "name": "Amaryl"
+  },
+  "122": {
+    "name": "Ambien"
+  },
+  "123": {
+    "name": "Ambien CR"
+  },
+  "124": {
+    "name": "Ambisome"
+  },
+  "125": {
+    "name": "Amerge"
+  },
+  "126": {
+    "name": "Americaine"
+  },
+  "127": {
+    "name": "Amevive"
+  },
+  "128": {
+    "name": "Amicar"
+  },
+  "129": {
+    "name": "Amifostine"
+  },
+  "130": {
+    "name": "Amikacin"
+  },
+  "131": {
+    "name": "Amikin"
+  },
+  "132": {
+    "name": "Amiloride"
+  },
+  "133": {
+    "name": "Amiloride and Hydrochlorothiazide"
+  },
+  "134": {
+    "name": "Amiloride Hydrochloride"
+  },
+  "135": {
+    "name": "Amino Acids"
+  },
+  "136": {
+    "name": "Aminocaproic Acid"
+  },
+  "137": {
+    "name": "Aminoglutethimide"
+  },
+  "138": {
+    "name": "Aminohippurate Sodium"
+  },
+  "139": {
+    "name": "Aminolevulinic Acid"
+  },
+  "140": {
+    "name": "Aminosalicylic Acid"
+  },
+  "141": {
+    "name": "Aminosyn II 8.5%"
+  },
+  "142": {
+    "name": "Aminosyn II in Dextrose"
+  },
+  "143": {
+    "name": "Amitiza"
+  },
+  "144": {
+    "name": "Amitriptyline"
+  },
+  "145": {
+    "name": "Amlexanox"
+  },
+  "146": {
+    "name": "Amlodipine Besylate"
+  },
+  "147": {
+    "name": "Amoxapine"
+  },
+  "148": {
+    "name": "Amoxicillin"
+  },
+  "149": {
+    "name": "Amoxicillin Clavulanate"
+  },
+  "150": {
+    "name": "Amoxil"
+  },
+  "151": {
+    "name": "Amphadase"
+  },
+  "152": {
+    "name": "Amphetamine"
+  },
+  "153": {
+    "name": "Amphotericin B"
+  },
+  "154": {
+    "name": "Ampicillin"
+  },
+  "155": {
+    "name": "Ampyra"
+  },
+  "156": {
+    "name": "Amrix"
+  },
+  "157": {
+    "name": "Amyl Nitrite"
+  },
+  "158": {
+    "name": "Amytal Sodium"
+  },
+  "159": {
+    "name": "Anabolic steroids"
+  },
+  "160": {
+    "name": "Anadrol-50"
+  },
+  "161": {
+    "name": "Anafranil"
+  },
+  "162": {
+    "name": "Anagrelide"
+  },
+  "163": {
+    "name": "Anakinra"
+  },
+  "164": {
+    "name": "Anastrozole"
+  },
+  "165": {
+    "name": "Ancobon"
+  },
+  "166": {
+    "name": "Androderm"
+  },
+  "167": {
+    "name": "AndroGel"
+  },
+  "168": {
+    "name": "Anectine"
+  },
+  "169": {
+    "name": "Angeliq"
+  },
+  "170": {
+    "name": "Angiomax"
+  },
+  "171": {
+    "name": "Anidulafungin"
+  },
+  "172": {
+    "name": "Anisindione"
+  },
+  "173": {
+    "name": "Ansaid"
+  },
+  "174": {
+    "name": "Antabuse"
+  },
+  "175": {
+    "name": "Antara"
+  },
+  "176": {
+    "name": "Anthralin"
+  },
+  "177": {
+    "name": "Antihemophilic Factor"
+  },
+  "178": {
+    "name": "Antithrombin"
+  },
+  "179": {
+    "name": "Antivenin"
+  },
+  "180": {
+    "name": "Antivert"
+  },
+  "181": {
+    "name": "Antizol"
+  },
+  "182": {
+    "name": "Anturane"
+  },
+  "183": {
+    "name": "Anusol Hc"
+  },
+  "184": {
+    "name": "Aphthasol"
+  },
+  "185": {
+    "name": "Apidra"
+  },
+  "186": {
+    "name": "Aplenzin"
+  },
+  "187": {
+    "name": "Apokyn"
+  },
+  "188": {
+    "name": "Apomorphine"
+  },
+  "189": {
+    "name": "Apraclonidine"
+  },
+  "190": {
+    "name": "Apresazide"
+  },
+  "191": {
+    "name": "Apresoline"
+  },
+  "192": {
+    "name": "Apri"
+  },
+  "193": {
+    "name": "Apriso"
+  },
+  "194": {
+    "name": "Aprotinin"
+  },
+  "195": {
+    "name": "Aptivus"
+  },
+  "196": {
+    "name": "Aquasol A"
+  },
+  "197": {
+    "name": "Aralen"
+  },
+  "198": {
+    "name": "Aramine"
+  },
+  "199": {
+    "name": "Aranesp"
+  },
+  "200": {
+    "name": "Arava"
+  },
+  "201": {
+    "name": "Arcalyst"
+  },
+  "202": {
+    "name": "Aredia"
+  },
+  "203": {
+    "name": "Argatroban"
+  },
+  "204": {
+    "name": "Aricept"
+  },
+  "205": {
+    "name": "Arimidex"
+  },
+  "206": {
+    "name": "Aripiprazole"
+  },
+  "207": {
+    "name": "Aristocort"
+  },
+  "208": {
+    "name": "Arixtra"
+  },
+  "209": {
+    "name": "Armodafinil"
+  },
+  "210": {
+    "name": "Aromasin"
+  },
+  "211": {
+    "name": "Arranon"
+  },
+  "212": {
+    "name": "Artane"
+  },
+  "213": {
+    "name": "Arthrotec"
+  },
+  "214": {
+    "name": "Arzerra"
+  },
+  "215": {
+    "name": "Asacol"
+  },
+  "216": {
+    "name": "Asacol HD"
+  },
+  "217": {
+    "name": "Asclera"
+  },
+  "218": {
+    "name": "Ascorbic Acid"
+  },
+  "219": {
+    "name": "Asmanex Twisthaler"
+  },
+  "220": {
+    "name": "Asparaginase"
+  },
+  "221": {
+    "name": "Aspirin"
+  },
+  "222": {
+    "name": "Astelin"
+  },
+  "223": {
+    "name": "Astemizole"
+  },
+  "224": {
+    "name": "Astepro"
+  },
+  "225": {
+    "name": "Atacand"
+  },
+  "226": {
+    "name": "Atacand HCT"
+  },
+  "227": {
+    "name": "Atazanavir Sulfate"
+  },
+  "228": {
+    "name": "Atenolol and Chlorthalidone"
+  },
+  "229": {
+    "name": "Atgam"
+  },
+  "230": {
+    "name": "Ativan"
+  },
+  "231": {
+    "name": "Atomoxetine HCl"
+  },
+  "232": {
+    "name": "Atorvastatin Calcium"
+  },
+  "233": {
+    "name": "Atovaquone"
+  },
+  "234": {
+    "name": "Atracurium Besylate"
+  },
+  "235": {
+    "name": "Atralin"
+  },
+  "236": {
+    "name": "Atridox"
+  },
+  "237": {
+    "name": "Atripla"
+  },
+  "238": {
+    "name": "Atromid-S"
+  },
+  "239": {
+    "name": "Atropen"
+  },
+  "240": {
+    "name": "Atropine"
+  },
+  "241": {
+    "name": "Atrovent HFA"
+  },
+  "242": {
+    "name": "Atryn"
+  },
+  "243": {
+    "name": "Augmentin"
+  },
+  "244": {
+    "name": "Augmentin XR"
+  },
+  "245": {
+    "name": "Auralgan"
+  },
+  "246": {
+    "name": "Avage"
+  },
+  "247": {
+    "name": "Avalide"
+  },
+  "248": {
+    "name": "Avandamet"
+  },
+  "249": {
+    "name": "Avandaryl"
+  },
+  "250": {
+    "name": "Avandia"
+  },
+  "251": {
+    "name": "Avapro"
+  },
+  "252": {
+    "name": "Avastin"
+  },
+  "253": {
+    "name": "Avelox"
+  },
+  "254": {
+    "name": "Avinza"
+  },
+  "255": {
+    "name": "Avodart"
+  },
+  "256": {
+    "name": "Avonex"
+  },
+  "257": {
+    "name": "Axert"
+  },
+  "258": {
+    "name": "Axid"
+  },
+  "259": {
+    "name": "Aygestin"
+  },
+  "260": {
+    "name": "Azacitidine"
+  },
+  "261": {
+    "name": "Azasan"
+  },
+  "262": {
+    "name": "Azasite"
+  },
+  "263": {
+    "name": "Azathioprine"
+  },
+  "264": {
+    "name": "Azelaic Acid"
+  },
+  "265": {
+    "name": "Azelastine Hydrochloride"
+  },
+  "266": {
+    "name": "Azelex"
+  },
+  "267": {
+    "name": "Azilect"
+  },
+  "268": {
+    "name": "Azithromycin"
+  },
+  "269": {
+    "name": "Azmacort"
+  },
+  "270": {
+    "name": "Azopt"
+  },
+  "271": {
+    "name": "Azor"
+  },
+  "272": {
+    "name": "Azulfidine EN-Tabs"
+  }
+}

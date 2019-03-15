@@ -14,13 +14,10 @@ const fs = require("fs");
         .childNodes[2].querySelector("tbody")
         .childNodes[6].childNodes[0].childNodes[0].childNodes[1].querySelectorAll(
           "tr"
-        )
+          )
     ).map(row => row.innerText)
   );
-  const innerText = await page.evaluate(
-    () => document.querySelector("table a").innerText
-  );
-
+  
   //   get rid of drug names header from table
   drugNames.shift();
 

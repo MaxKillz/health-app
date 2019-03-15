@@ -10,26 +10,26 @@ const fs = require("fs");
   const drugNames = await page.evaluate(() =>
     Array.from(
       document
-        .querySelector("table tbody")
-        .childNodes[2].querySelector("tbody")
-        .childNodes[6].childNodes[0].childNodes[0].childNodes[1].querySelectorAll(
-          "tr"
-          )
+      .querySelector("table tbody")
+      .childNodes[2].querySelector("tbody")
+      .childNodes[6].childNodes[0].childNodes[0].childNodes[1].querySelectorAll(
+        "tr"
+      )
     ).map(row => row.innerText)
   );
-  
+
   //   get rid of drug names header from table
   drugNames.shift();
 
-    let drugList = {}
+  let drugList = {}
 
-    for (var i = 0; i < drugNames.length; i++) {
-        drugList[i] = {
-            name: drugNames[i]
-        }
+  for (var i = 0; i < drugNames.length; i++) {
+    drugList[i] = {
+      name: drugNames[i]
     }
+  }
 
-  await fs.writeFile("./results/drugNames.json", JSON.stringify(drugList, null, 2), function(error) {
+  await fs.writeFile("./results/drugNames.json", JSON.stringify(drugList, null, 2), function (error) {
     if (error) {
       console.log("something went wrong, oops!");
     } else {

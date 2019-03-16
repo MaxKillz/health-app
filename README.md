@@ -7,6 +7,6 @@ Note: Thanks, [David and MPJ from DevTips on Youtube](https://www.youtube.com/wa
 
 ## Data Entry
 
-I couldn't find a CSV or other spreadsheet with listings of drugs that interact poorly with alcohol. I found a useful PDF on [NIH's website](https://pubs.niaaa.nih.gov/publications/Medicine/Harmful_Interactions.pdf) and decided to take the time to write it out in table format, both my own personal use, and other developers or researchers who'd find it useful.
+I couldn't find a CSV or other spreadsheet with listings of drugs that interact poorly with alcohol. I found a useful PDF on [NIH's website](https://pubs.niaaa.nih.gov/publications/Medicine/Harmful_Interactions.pdf) and decided to take the time to write it out in table format, both for my own personal use, and for other developers or researchers who'd find it useful.
 
 The dataset includes each medication's brand name, generic alternatives, and reactions.

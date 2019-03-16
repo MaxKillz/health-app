@@ -44,7 +44,7 @@ const fs = require("fs");
     name: drugNames
   }
 
-  await fs.writeFile("./results/drugNames.json", JSON.stringify(drugList, null, 2), function (error) {
+  await fs.writeFile("./data/drugNames.json", JSON.stringify(drugList, null, 2), function (error) {
     if (error) {
       console.log("something went wrong, oops!");
     } else {
@@ -62,7 +62,7 @@ const fs = require("fs");
     drugs: drugNames
   }
 
-  await fs.writeFile("./results/drugObjects.json", JSON.stringify(drugList, null, 2), function (error) {
+  await fs.writeFile("./data/drugObjects.json", JSON.stringify(drugList, null, 2), function (error) {
     if (error) {
       console.log("something went wrong, oops!");
     } else {

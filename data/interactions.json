@@ -1,0 +1,737 @@
+[
+  {
+    "brand": "Alavert",
+    "generic": "Loratadine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Atarax",
+    "generic": "Hydroxyzine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Benadryl",
+    "generic": "Diphenhydramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Clarinex",
+    "generic": "Desloratadine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Claritin",
+    "generic": "Loratadine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Claritin-D",
+    "generic": "Loratadine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Dimetapp Cold & Allergy",
+    "generic": "Brompheniramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Sudafed Sinus & Allergy",
+    "generic": "Chlorpheniramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Triaminic Cold & Allergy",
+    "generic": "Chlorpheniramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Tylenol Allergy Sinus",
+    "generic": "Chlorpheniramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Tylenol Cold & Flu",
+    "generic": "Chlorpheniramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Zyrtec",
+    "generic": "Cetirizine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Isordil",
+    "generic": "Isosorbide Nitroglycerin",
+    "interaction": "Rapid heartbeat, sudden changes in blood pressure, dizziness, fainting"
+  },
+  {
+    "brand": "Ativan",
+    "generic": "Lorazepam",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "BuSpar",
+    "generic": "Buspirone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Klonopin",
+    "generic": "Clonazepam",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Librium",
+    "generic": "Chlordiazepoxide",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Paxil",
+    "generic": "Paroxetine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Valium",
+    "generic": "Diazepam",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Xanax",
+    "generic": "Alprazolam",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Herbal preparations (Kava Kava)",
+    "generic": "N/A",
+    "interaction": "Liver damage, drowsiness"
+  },
+  {
+    "brand": "Celebrex",
+    "generic": "Celecoxib",
+    "interaction": "Ulcers, stomach bleeding, liver damage"
+  },
+  {
+    "brand": "Naprosyn",
+    "generic": "Naproxen",
+    "interaction": "Ulcers, stomach bleeding, liver damage"
+  },
+  {
+    "brand": "Voltaren",
+    "generic": "Diclofenac",
+    "interaction": "Ulcers, stomach bleeding, liver damage"
+  },
+  {
+    "brand": "Adderall",
+    "generic": "Amphetamine/dextro-amphetamine",
+    "interaction": "Possible increased risk for heart problems"
+  },
+  {
+    "brand": "Concerta",
+    "generic": "Methylphenidate",
+    "interaction": "Dizziness, drowsiness, impaired concentration"
+  },
+  {
+    "brand": "Ritalin",
+    "generic": "Methylphenidate",
+    "interaction": "Dizziness, drowsiness, impaired concentration"
+  },
+  {
+    "brand": "Dexedrine",
+    "generic": "Dextroamphetamine",
+    "interaction": "Possible increased risk for heart problems"
+  },
+  {
+    "brand": "Focalin",
+    "generic": "Dexmethylphenidate",
+    "interaction": "Dizziness, drowsiness, impaired concentration"
+  },
+  {
+    "brand": "Strattera",
+    "generic": "Atomoxetine",
+    "interaction": "liver damage"
+  },
+  {
+    "brand": "Vyvanse",
+    "generic": "Lisdexamfetamine",
+    "interaction": "Possible increased risk for heart problems"
+  },
+  {
+    "brand": "Coumadin",
+    "generic": "Warfarin",
+    "interaction": "Occasional drinking may lead to internal bleeding; heavier drinking also may cause bleeding or may have the opposite effect, resulting in possible blood clots, strokes, or heart attacks"
+  },
+  {
+    "brand": "Delsym",
+    "generic": "Dextromethorpan",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Robitussin Cough",
+    "generic": "Dextromethorpan",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Robitussin A–C",
+    "generic": "Guaifenesin + codeine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Abilify",
+    "generic": "Aripriprazone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Anafranil",
+    "generic": "Clomipramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Celexa",
+    "generic": "Citalopram",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Clozaril",
+    "generic": "Clozapine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Cymbalta",
+    "generic": "Duloxetine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Desyrel",
+    "generic": "Trazodone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Effexor",
+    "generic": "Venlafaxine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Elavil",
+    "generic": "Amitriptyline",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Geodon",
+    "generic": "Ziprasidone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Invega",
+    "generic": "Paliperidone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Lexapro",
+    "generic": "Escitalopram",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Luvox",
+    "generic": "Fluvoxamine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Nardil",
+    "generic": "Phenelzine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessnessMonoamine oxidase inhibitors (MAOIs), such as tranylcypromine and phenelzine, when combined with alcohol, may result in serious heartrelated side effects. Risk for dangerously high blood pressure is increased when MAOIs are mixed with tyramine, a byproduct found in beer and red wine"
+  },
+  {
+    "brand": "Norpramin",
+    "generic": "Desipramine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Parnate",
+    "generic": "Tranylcypromine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessnessMonoamine oxidase inhibitors (MAOIs), such as tranylcypromine and phenelzine, when combined with alcohol, may result in serious heartrelated side effects. Risk for dangerously high blood pressure is increased when MAOIs are mixed with tyramine, a byproduct found in beer and red wine"
+  },
+  {
+    "brand": "Paxil",
+    "generic": "Paroxetine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Pristiq",
+    "generic": "Desevenlafaxine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Prozac",
+    "generic": "Fluoxetine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Remeron",
+    "generic": "Mirtazapine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Risperdal",
+    "generic": "Risperidone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Seroquel",
+    "generic": "Quetiapine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Serzone",
+    "generic": "Nefazodone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Symbyax",
+    "generic": "Fluoxetine/Olanzapine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Wellbutrin",
+    "generic": "Bupropion",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Zoloft",
+    "generic": "Sertraline",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Zyprexa",
+    "generic": "Olanzapine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Herbal preparations (St. John’s Wort)",
+    "generic": "N/A",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
+  },
+  {
+    "brand": "Diabinese",
+    "generic": "Chlorpropamide",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)"
+  },
+  {
+    "brand": "Glucotrol",
+    "generic": "Glipizide",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)"
+  },
+  {
+    "brand": "Glucophage",
+    "generic": "Metformin",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure), symptoms of nausea and weakness may occur"
+  },
+  {
+    "brand": "Glynase",
+    "generic": "Glyburide",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)"
+  },
+  {
+    "brand": "DiaBeta",
+    "generic": "Glyburide",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)"
+  },
+  {
+    "brand": "Micronase",
+    "generic": "Glyburide",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)"
+  },
+  {
+    "brand": "Orinase",
+    "generic": "Tolbutamide",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)"
+  },
+  {
+    "brand": "Tolinase",
+    "generic": "Tolazamide",
+    "interaction": "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)"
+  },
+  {
+    "brand": "Cardura",
+    "generic": "Doxazosin",
+    "interaction": "Dizziness, light headedness, fainting"
+  },
+  {
+    "brand": "Flomax",
+    "generic": "Tamsulosin",
+    "interaction": "Dizziness, light headedness, fainting"
+  },
+  {
+    "brand": "Hytrin",
+    "generic": "Terazosin",
+    "interaction": "Dizziness, light headedness, fainting"
+  },
+  {
+    "brand": "Minipress",
+    "generic": "Prazosin",
+    "interaction": "Dizziness, light headedness, fainting"
+  },
+  {
+    "brand": "Axid",
+    "generic": "Nizatidine",
+    "interaction": "Rapid heartbeat; increased alcohol effect"
+  },
+  {
+    "brand": "Reglan",
+    "generic": "Metoclopramide",
+    "interaction": "Rapid heartbeat; increased alcohol effect, sudden changes in blood pressure"
+  },
+  {
+    "brand": "Tagamet",
+    "generic": "Cimetidine",
+    "interaction": "Rapid heartbeat; increased alcohol effect"
+  },
+  {
+    "brand": "Zantac",
+    "generic": "Ranitidine",
+    "interaction": "Rapid heartbeat; increased alcohol effect"
+  },
+  {
+    "brand": "Accupril",
+    "generic": "Quinapril",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Calan",
+    "generic": "Verapamil",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Capozide",
+    "generic": "Hydrochlorothiazide",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Cardura",
+    "generic": "Doxazosin",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Catapres",
+    "generic": "Clonidine",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Cozaar",
+    "generic": "Losartan",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Hytrin",
+    "generic": "Terazosin",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Lopressor HCT",
+    "generic": "Hydrochlorothiazide",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Lotensin",
+    "generic": "Benzapril",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Minipress",
+    "generic": "Prazosin",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Norvasc",
+    "generic": "Amlodipine",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Prinivil",
+    "generic": "Mesylate Lisinopril",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Zestril",
+    "generic": "Mesylate Lisinopril",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Vaseretic",
+    "generic": "Enalapril",
+    "interaction": "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)"
+  },
+  {
+    "brand": "Advicor",
+    "generic": "Lovastatin + Niacin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Altocor",
+    "generic": "Lovastatin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Crestor",
+    "generic": "Rosuvastatin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Lipitor",
+    "generic": "Atorvastatin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Mevacor",
+    "generic": "Lovastatin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Niaspan",
+    "generic": "Niacin",
+    "interaction": "Liver damage, increased flushing and itching"
+  },
+  {
+    "brand": "Pravachol",
+    "generic": "Pravastatin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Pravigard",
+    "generic": "Pravastatin + Aspirin",
+    "interaction": "Liver damage, increased stomach bleeding"
+  },
+  {
+    "brand": "Vytorin",
+    "generic": "Ezetimibe + Simvastatin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Zocor",
+    "generic": "Simvastatin",
+    "interaction": "Liver damage"
+  },
+  {
+    "brand": "Acrodantin",
+    "generic": "Nitrofurantoin",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face"
+  },
+  {
+    "brand": "Flagyl",
+    "generic": "Metronidazole",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face"
+  },
+  {
+    "brand": "Grisactin",
+    "generic": "Griseofulvin",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face"
+  },
+  {
+    "brand": "Nizoral",
+    "generic": "Ketoconazole",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face, liver damage"
+  },
+  {
+    "brand": "Nydrazid",
+    "generic": "Isoniazid",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face, liver damage"
+  },
+  {
+    "brand": "Seromycin",
+    "generic": "Cycloserine",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face"
+  },
+  {
+    "brand": "Tindamax",
+    "generic": "Tinidazole",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face"
+  },
+  {
+    "brand": "Zithromax",
+    "generic": "Azithromycin",
+    "interaction": "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face"
+  },
+  {
+    "brand": "Depakene",
+    "generic": "Valproic acid",
+    "interaction": "Drowsiness, dizziness; tremors; increased risk for side effects, such as restlessness, impaired motor control; loss of appetite; stomach upset; irregular bowel movement; joint or muscle pain; depression, liver damage"
+  },
+  {
+    "brand": "Depakote",
+    "generic": "Valproic acid",
+    "interaction": "Drowsiness, dizziness; tremors; increased risk for side effects, such as restlessness, impaired motor control; loss of appetite; stomach upset; irregular bowel movement; joint or muscle pain; depression, liver damage"
+  },
+  {
+    "brand": "Eskalith",
+    "generic": "Lithium",
+    "interaction": "Drowsiness, dizziness; tremors; increased risk for side effects, such as restlessness, impaired motor control; loss of appetite; stomach upset; irregular bowel movement; joint or muscle pain; depression"
+  },
+  {
+    "brand": "EskalithCR",
+    "generic": "Lithium",
+    "interaction": "Drowsiness, dizziness; tremors; increased risk for side effects, such as restlessness, impaired motor control; loss of appetite; stomach upset; irregular bowel movement; joint or muscle pain; depression"
+  },
+  {
+    "brand": "Lithobid",
+    "generic": "Lithium",
+    "interaction": "Drowsiness, dizziness; tremors; increased risk for side effects, such as restlessness, impaired motor control; loss of appetite; stomach upset; irregular bowel movement; joint or muscle pain; depression"
+  },
+  {
+    "brand": "Flexeril",
+    "generic": "Cyclobenzaprine",
+    "interaction": "Drowsiness, dizziness; increased risk of seizures; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Soma",
+    "generic": "Carisoprodol",
+    "interaction": "Drowsiness, dizziness; increased risk of seizures; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Antivert",
+    "generic": "Meclizine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Dramamine",
+    "generic": "Dimenhydrinate",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Phenergan",
+    "generic": "Promethazine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose"
+  },
+  {
+    "brand": "Advil",
+    "generic": "Ibuprofen",
+    "interaction": "Stomach upset, bleeding and ulcers, apid heartbeat"
+  },
+  {
+    "brand": "Aleve",
+    "generic": "Naproxen",
+    "interaction": "Stomach upset, bleeding and ulcers, apid heartbeat"
+  },
+  {
+    "brand": "Excedrin",
+    "generic": "Aspirin + Acetaminophen",
+    "interaction": "Stomach upset, bleeding and ulcers, apid heartbeat, liver damage"
+  },
+  {
+    "brand": "Motrin",
+    "generic": "Ibuprofen",
+    "interaction": "Stomach upset, bleeding and ulcers, apid heartbeat"
+  },
+  {
+    "brand": "Tylenol",
+    "generic": "Acetaminophen",
+    "interaction": "Stomach upset, bleeding and ulcers, apid heartbeat, liver damage"
+  },
+  {
+    "brand": "Dilantin",
+    "generic": "Phenytoin",
+    "interaction": "Drowsiness, dizziness;, increased risk of seizures"
+  },
+  {
+    "brand": "Horizant",
+    "generic": "Gabapentin",
+    "interaction": "Drowsiness, dizziness;"
+  },
+  {
+    "brand": "Neurontin",
+    "generic": "Gabapentin",
+    "interaction": "Drowsiness, dizziness;"
+  },
+  {
+    "brand": "Keppra",
+    "generic": "Levetiracetam",
+    "interaction": "Drowsiness, dizziness;, increased risk of seizures"
+  },
+  {
+    "brand": "Klonopin",
+    "generic": "Clonazepam",
+    "interaction": "Drowsiness, dizziness;"
+  },
+  {
+    "brand": "Lamictal",
+    "generic": "Lamotrigine",
+    "interaction": "Drowsiness, dizziness;"
+  },
+  {
+    "brand": "Lyrica",
+    "generic": "Pregabalin",
+    "interaction": "Drowsiness, dizziness;"
+  },
+  {
+    "brand": "Tegretol",
+    "generic": "Carbamazepine",
+    "interaction": "Drowsiness, dizziness;"
+  },
+  {
+    "brand": "Topamax",
+    "generic": "Topiramate",
+    "interaction": "Drowsiness, dizziness;, unusual behavior and changes in mental health (such as thoughts of suicide)"
+  },
+  {
+    "brand": "Trileptal",
+    "generic": "Oxcarbazepine",
+    "interaction": "Drowsiness, dizziness;"
+  },
+  {
+    "brand": "Darvocet–N",
+    "generic": "Propoxyphene",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Demerol",
+    "generic": "Merepidine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Fiorinal with codeine",
+    "generic": "Butalbital + codeine",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Percocet",
+    "generic": "Oxycodone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Vicodin",
+    "generic": "Hydrocodone",
+    "interaction": "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Ambien",
+    "generic": "Zolpidem",
+    "interaction": "Drowsiness, sleepiness, dizziness; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Lunesta",
+    "generic": "Eszopiclone",
+    "interaction": "Drowsiness, sleepiness, dizziness; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Prosom",
+    "generic": "Estazolam",
+    "interaction": "Drowsiness, sleepiness, dizziness; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Restoril",
+    "generic": "Temazepam",
+    "interaction": "Drowsiness, sleepiness, dizziness; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Sominex",
+    "generic": "Diphenhydramine",
+    "interaction": "Drowsiness, sleepiness, dizziness; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Unisom",
+    "generic": "Doxylamine",
+    "interaction": "Drowsiness, sleepiness, dizziness; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+  },
+  {
+    "brand": "Herbal preparations (chamomile, valerian, lavender)",
+    "generic": "N/A",
+    "interaction": "Increased drowsiness"
+  }
+]

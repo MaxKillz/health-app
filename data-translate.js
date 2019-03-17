@@ -24,9 +24,9 @@ for (var i = 0; i < allergy.length; i++) {
 
 // chest pain
 let chest = [
-  "Isordil",
+  ["Isordil",
   "Isosorbide Nitroglycerin",
-  "Rapid heartbeat, sudden changes in blood pressure, dizziness, fainting"
+  "Rapid heartbeat, sudden changes in blood pressure, dizziness, fainting"]
 ];
 
 // anxiety
@@ -93,9 +93,9 @@ let attention = [
 
 // blood clots
 let bloodClots = [
-  "Coumadin",
+  ["Coumadin",
   "Warfarin",
-  "Occasional drinking may lead to internal bleeding; heavier drinking also may cause bleeding or may have the opposite effect, resulting in possible blood clots, strokes, or heart attacks"
+  "Occasional drinking may lead to internal bleeding; heavier drinking also may cause bleeding or may have the opposite effect, resulting in possible blood clots, strokes, or heart attacks"]
 ];
 
 // cough
@@ -152,9 +152,7 @@ let depression = [
 ];
 
 for (var j = 0; j < depression.length; j++) {
-  interaction = [
-    "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness"
-  ];
+  interaction = "Drowsiness, dizziness; increased risk for overdose; increased feelings of depression or hopelessness";
 
   if (
     depression[j][1] == "Phenelzine" ||
@@ -382,3 +380,23 @@ for (var v = 0; v < sleep.length; v++) {
     sleep[v].push(interaction);
 }
 
+// all arrays
+let combo = allergy.concat(chest).concat(anxiety).concat(arthritis).concat(attention).concat(bloodClots).concat(cough).concat(depression).concat(diabetes).concat(prostate).concat(heartburn).concat(highPressure).concat(cholesterol).concat(infections).concat(mood).concat(muscle).concat(nausea).concat(pain).concat(seizures).concat(severePain).concat(sleep);
+
+
+
+for (var w = 0; w < combo.length; w++) {
+    combo[w] = {
+    brand: combo[w][0],
+    generic: combo[w][1],
+    interaction: combo[w][2]
+    }
+}
+
+fs.writeFile("./data/interactions.json", JSON.stringify(combo, null, 2), function (error) {
+    if (error) {
+      console.log("something went wrong, oops!");
+    } else {
+      console.log("Wrote to file!");
+    }
+  });

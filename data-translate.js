@@ -166,20 +166,219 @@ for (var j = 0; j < depression.length; j++) {
 }
 
 // diabetes
-let diabetes = [["Diabinese", "Chlorpropamide"], ["Glucotrol", "Glipizide"],
-["Glucophage", "Metformin"],
-["Glynase", "Glyburide"],
-["DiaBeta", "Glyburide"],
-["Micronase", "Glyburide"],
-["Orinase", "Tolbutamide"],
-["Tolinase", "Tolazamide"]];
-
+let diabetes = [
+  ["Diabinese", "Chlorpropamide"],
+  ["Glucotrol", "Glipizide"],
+  ["Glucophage", "Metformin"],
+  ["Glynase", "Glyburide"],
+  ["DiaBeta", "Glyburide"],
+  ["Micronase", "Glyburide"],
+  ["Orinase", "Tolbutamide"],
+  ["Tolinase", "Tolazamide"]
+];
 
 for (var k = 0; k < diabetes.length; k++) {
-    interaction = "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)";
+  interaction =
+    "Abnormally low blood sugar levels, flushing reaction(nausea, vomiting, headache, rapid heartbeat, sudden changes in blood pressure)";
 
-    if (diabetes[k][1] === "Metformin") {
-        interaction = interaction.concat(", symptoms of nausea and weakness may occur");
-    }
-    diabetes[k].push(interaction);
+  if (diabetes[k][1] === "Metformin") {
+    interaction = interaction.concat(
+      ", symptoms of nausea and weakness may occur"
+    );
+  }
+  diabetes[k].push(interaction);
 }
+
+// prostate
+let prostate = [
+  ["Cardura", "Doxazosin"],
+  ["Flomax", "Tamsulosin"],
+  ["Hytrin", "Terazosin"],
+  ["Minipress", "Prazosin"]
+];
+
+for (var l = 0; l < prostate.length; l++) {
+  interaction = "Dizziness, light headedness, fainting";
+
+  prostate[l].push(interaction);
+}
+
+// heartburn
+let heartburn = [
+  ["Axid", "Nizatidine", "Rapid heartbeat; increased alcohol effect"],
+  [
+    "Reglan",
+    "Metoclopramide",
+    "Rapid heartbeat; increased alcohol effect, sudden changes in blood pressure"
+  ],
+  ["Tagamet", "Cimetidine", "Rapid heartbeat; increased alcohol effect"],
+  ["Zantac", "Ranitidine", "Rapid heartbeat; increased alcohol effect"]
+];
+
+// high blood pressure
+let highPressure = [["Accupril", "Quinapril"],
+["Calan", "Verapamil"],
+["Capozide", "Hydrochlorothiazide"],
+["Cardura", "Doxazosin"],
+["Catapres", "Clonidine"],
+["Cozaar", "Losartan"],
+["Hytrin", "Terazosin"],
+["Lopressor HCT", "Hydrochlorothiazide"],
+["Lotensin", "Benzapril"],
+["Minipress", "Prazosin"],
+["Norvasc", "Amlodipine"],
+["Prinivil", "Mesylate Lisinopril"],
+["Zestril", "Mesylate Lisinopril"],
+["Vaseretic", "Enalapril"]]
+
+interaction = "Dizziness, fainting, drowsiness; heart problems such as changes in the heart’s regular heartbeat (arrhythmia)";
+
+for (var m = 0; m < highPressure.length; m++) {
+    highPressure[m].push(interaction);
+}
+
+// high cholesterol
+let cholesterol = [["Advicor", "Lovastatin + Niacin"],
+["Altocor", "Lovastatin"],
+["Crestor", "Rosuvastatin"],
+["Lipitor", "Atorvastatin"],
+["Mevacor", "Lovastatin"],
+["Niaspan", "Niacin"],
+["Pravachol", "Pravastatin"],
+["Pravigard", "Pravastatin + Aspirin"],
+["Vytorin", "Ezetimibe + Simvastatin"],
+["Zocor", "Simvastatin"]];
+
+for (var p = 0; p < cholesterol.length; p++) {
+    interaction = "Liver damage";
+
+    if(cholesterol[p][1] === "Niacin") {
+        interaction = interaction.concat(", increased flushing and itching")
+    } else if (cholesterol[p][1] === "Pravastatin + Aspirin") {
+        interaction = interaction.concat(", increased stomach bleeding")
+    }
+
+    cholesterol[p].push(interaction);
+}
+
+// infections
+let infections = [["Acrodantin", "Nitrofurantoin"],
+["Flagyl", "Metronidazole"],
+["Grisactin", "Griseofulvin"],
+["Nizoral", "Ketoconazole"],
+["Nydrazid", "Isoniazid"],
+["Seromycin", "Cycloserine"],
+["Tindamax", "Tinidazole"],
+["Zithromax", "Azithromycin"]]
+
+for (var q = 0; q < infections.length; q++) {
+    interaction = "Fast heartbeat, sudden changes in blood pressure; stomach pain, upset stomach, vomiting, headache, or flushing or redness of the face";
+
+    if ((infections[q][1] === "Isoniazid") || (infections[q][1] === "Ketoconazole")) {
+        interaction = interaction.concat(", liver damage");
+    }
+
+    infections[q].push(interaction);
+} 
+
+// mood stabilizers
+let mood = [["Depakene", "Valproic acid"],
+["Depakote", "Valproic acid"],
+["Eskalith", "Lithium"],
+["EskalithCR", "Lithium"],
+["Lithobid", "Lithium"]]
+
+for (var r = 0; r < mood.length; r++) {
+interaction = "Drowsiness, dizziness; tremors; increased risk for side effects, such as restlessness, impaired motor control; loss of appetite; stomach upset; irregular bowel movement; joint or muscle pain; depression"
+
+    if (mood[r][1] === "Valproic acid") {
+        interaction = interaction.concat(", liver damage")
+    }
+
+    mood[r].push(interaction);
+}
+
+// muscle pain
+let muscle = [["Flexeril", "Cyclobenzaprine", "Drowsiness, dizziness; increased risk of seizures; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"],
+["Soma", "Carisoprodol", "Drowsiness, dizziness; increased risk of seizures; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"]];
+
+
+// nausea
+let nausea = [["Antivert", "Meclizine", "Drowsiness, dizziness; increased risk for overdose"],
+["Dramamine", "Dimenhydrinate", "Drowsiness, dizziness; increased risk for overdose"],
+["Phenergan", "Promethazine", "Drowsiness, dizziness; increased risk for overdose"]]
+
+// pain
+let pain = [["Advil", "Ibuprofen"],
+["Aleve", "Naproxen"],
+["Excedrin", "Aspirin + Acetaminophen"],
+["Motrin", "Ibuprofen"],
+["Tylenol", "Acetaminophen"]]
+
+for (var s = 0; s < pain.length; s++) {
+    interaction = "Stomach upset, bleeding and ulcers, apid heartbeat";
+
+    if ((pain[s][1] === "Acetaminophen") || (pain[s][1] === "Aspirin + Acetaminophen")) {
+        interaction = interaction.concat(", liver damage")
+    }
+
+    pain[s].push(interaction);
+}
+
+// seizures
+let seizures = 
+[["Dilantin", "Phenytoin"],
+["Horizant", "Gabapentin"],
+["Neurontin", "Gabapentin"],
+["Keppra", "Levetiracetam"],
+["Klonopin", "Clonazepam"],
+["Lamictal", "Lamotrigine"],
+["Lyrica", "Pregabalin"],
+["Tegretol", "Carbamazepine"],
+["Topamax", "Topiramate"],
+["Trileptal", "Oxcarbazepine"]]
+
+for (var t = 0; t < seizures.length; t++) {
+    interaction = "Drowsiness, dizziness;";
+
+    if ((seizures[t][1] === "Levetiracetam") || (seizures[t][1] === "Phenytoin")) {
+        interaction = interaction.concat(", increased risk of seizures");
+    } else if (seizures[t][1] === "Topiramate") {
+        interaction = interaction.concat(", unusual behavior and changes in mental health (such as thoughts of suicide)")
+    }
+
+    seizures[t].push(interaction);
+}
+
+// severe pain
+let severePain = [["Darvocet–N", "Propoxyphene"],
+["Demerol", "Merepidine"],
+["Fiorinal with codeine", "Butalbital + codeine"],
+["Percocet", "Oxycodone"],
+["Vicodin", "Hydrocodone"]]
+
+for (var u = 0; u < severePain.length; u++) {
+    interaction = "Drowsiness, dizziness; increased risk for overdose; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems"
+
+    severePain[u].push(interaction);
+}
+
+// sleep
+let sleep = [["Ambien", "Zolpidem"],
+["Lunesta", "Eszopiclone"],
+["Prosom", "Estazolam"],
+["Restoril", "Temazepam"],
+["Sominex", "Diphenhydramine"],
+["Unisom", "Doxylamine"],
+["Herbal preparations (chamomile, valerian, lavender)", "N/A"]];
+
+for (var v = 0; v < sleep.length; v++) {
+    interaction = "Drowsiness, sleepiness, dizziness; slowed or difficulty breathing; impaired motor control; unusual behavior; memory problems";
+
+    if (sleep[v][1] === "N/A") {
+        interaction = "Increased drowsiness"
+    }
+
+    sleep[v].push(interaction);
+}
+

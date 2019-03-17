@@ -11,4 +11,4 @@ I couldn't find a CSV or other spreadsheet with listings of drugs that interact 
 
 The dataset includes each medication's brand name, generic alternatives, and reactions. I wrote a new JSON file with the data for my own project's uses, and then converted that JSON file to a CSV for others to use.
 
-#### Note: If you find any errors within the CSV file, please reach out immediately. The data is from a reputable source (NIH), but our understanding of medicine and prescriptions changes all the time, and I'd like to keep the dataset as accurate as possible.
+##### Note: If you find any errors within the CSV file, please reach out immediately. The data is from a reputable source (NIH), but our understanding of medicine and prescriptions changes all the time, and I'd like to keep the dataset as accurate as possible.
